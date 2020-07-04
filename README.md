@@ -1,0 +1,2 @@
+# Multiboot
+Multi-boot is designed to make it easy to have several !boot files and select the one you want depending on what you are doing. For example you could have one called Games that opens all the filer windows that contain games. You could have another file called DTP which loads !Ovation (or whatever) and increases the font cache, loads more fonts etc. Alternatively the program could be used in a situation where several people use the same computer and all want different settings, backdrop, memory allocations, apps loaded etc.
